@@ -1,2 +1,2 @@
 # JenkinsIntegrationTest
-Test project for .net and jenkins
+Test project for .net and jenkins testing.
